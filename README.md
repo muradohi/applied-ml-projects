@@ -25,3 +25,7 @@ translation of results into actionable insights.
 - **Streaming ELT with Databricks Delta Live Tables**
   - Incremental ingestion and medallion architecture
   - 👉 https://github.com/muradohi/databricks-dlt-medallion-pipeline
+
+- **E-Commerce-Analytics-Chatbot**
+  - LLM routing, RAG retrieval, and structured data analysis in a single system
+  - 👉 https://github.com/muradohi/E-Commerce-Analytics-Chatbot
